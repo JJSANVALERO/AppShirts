@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Camisetas</string>
+    <string name="details">Details</string>
+    <string name="delete">Delete</string>
+    <string name="shirt_detail">Shirt Detail</string>
+    <string name="modify">Modify</string>
+    <string name="view_shirts">View Shirts</string>
+    <string name="view_map">View Map</string>
+    <string name="open_camera">Open camera</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="save_image">Save Image</string>
+    <string name="AddItem">Add Item</string>
+    <string name="viewMapBar">View Map</string>
+    <string name="view_settings_bar">View Settings</string>
+    <string name="save_message">Save</string>
+    <string name="return_message">Return</string>
+    <string name="model">Model</string>
+    <string name="description">Description</string>
+    <string name="brand">Brand</string>
+    <string name="select_location_message">Select a location in the map</string>
+    <string name="task_registered_message">Shirt registered</string>
+    <string name="task_registered_error">An error has ocurred. Check that data is valid</string>
+    <string name="shirt_modified_message">Shirt modified</string>
+
+</resources>

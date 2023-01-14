@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/Theme.Material3.Light"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/register_shirt"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/AddItem"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/view_map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/viewMapBar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/view_settings"
+        android:icon="@drawable/settings_89381"
+        android:title="@string/view_settings_bar"
+        app:showAsAction="always" />
+
+</menu>
