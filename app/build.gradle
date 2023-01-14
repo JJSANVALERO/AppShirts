@@ -32,7 +32,7 @@ dependencies {
     implementation "androidx.room:room-runtime:2.4.3"
     implementation "org.projectlombok:lombok:1.18.24"
     implementation 'androidx.test.ext:junit:1.1.5'
-    androidTestImplementation 'junit:junit:4.12'
+    androidTestImplementation 'junit:junit:4.13.2'
     annotationProcessor "androidx.room:room-compiler:2.4.3"
 
     compileOnly "org.projectlombok:lombok:1.18.24"
